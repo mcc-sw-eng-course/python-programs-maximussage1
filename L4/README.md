@@ -4,7 +4,7 @@
 
 ## Authors
 Author: Jose Rene Signoret Becerra
-Student ID: A00354797
+Student ID: A****4797
 
 Carlos Eduardo Hernandez Rincon
-Student ID: A01181616
+Student ID: A****1616
